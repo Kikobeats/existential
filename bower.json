@@ -1,7 +1,7 @@
 {
   "name": "existential",
   "description": "The missing existential operator for JavaScript.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "authors": [
    "Kiko Beats josefrancisco.verdu@gmail.com"
   ],
@@ -12,9 +12,8 @@
     "test",
     "tests"
   ],
-
   "homepage": "https://github.com/Kikobeats/existential",
-  "keywords": [],
+  "keywords": ["existential", "operator", "existence", "exists"],
   "license": "MIT",
   "main": "dist/existential.js",
   "repository": "Kikobeats/existential"
