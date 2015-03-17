@@ -1,0 +1,39 @@
+{
+  "name": "existential",
+  "description": "The missing existential operator for JavaScript.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/Kikobeats"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/existential/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "*",
+    "coffee-script": "*",
+    "coffeeify": "*",
+    "gulp": "*",
+    "gulp-header": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "mocha": "*",
+    "should": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "homepage": "https://github.com/Kikobeats/existential",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": "Kikobeats/existential",
+  "scripts": {
+    "test": "sh test/test.sh"
+  }
+}
