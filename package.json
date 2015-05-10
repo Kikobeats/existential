@@ -1,7 +1,7 @@
 {
   "name": "existential",
   "description": "The missing existential operator for JavaScript.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
