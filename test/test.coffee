@@ -6,7 +6,7 @@ describe 'Existential ::', ->
   it 'compare with null', ->
     (existential(null)).should.eql false
 
-  it 'compare with undefined', (done) ->
+  it 'compare with undefined', ->
     (existential(undefined)).should.eql false
 
   it 'compare with positive value', ->

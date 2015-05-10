@@ -1,4 +1,4 @@
 'use strict';
 module.exports = function(value) {
-  return value != null;
+  return typeof value !== 'undefined' && value !== null;
 };
