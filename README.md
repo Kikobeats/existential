@@ -1,12 +1,13 @@
 # Existential
 
-[![Build Status](http://img.shields.io/travis/Kikobeats/existential/master.svg?style=flat)](https://travis-ci.org/Kikobeats/existential)
-[![Dependency status](http://img.shields.io/david/Kikobeats/existential.svg?style=flat)](https://david-dm.org/Kikobeats/existential)
-[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/existential.svg?style=flat)](https://david-dm.org/Kikobeats/existential#info=devDependencies)
-[![NPM Status](http://img.shields.io/npm/dm/existential.svg?style=flat)](https://www.npmjs.org/package/existential)
-[![Gittip](http://img.shields.io/gittip/Kikobeats.svg?style=flat)](https://www.gittip.com/Kikobeats/)
+![Last version](https://img.shields.io/github/tag/Kikobeats/existential.svg?style=flat-square)
+[![Build Status](http://img.shields.io/travis/Kikobeats/existential/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/existential)
+[![Dependency status](http://img.shields.io/david/Kikobeats/existential.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential)
+[![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/existential.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential#info=devDependencies)
+[![NPM Status](http://img.shields.io/npm/dm/existential.svg?style=flat-square)](https://www.npmjs.org/package/acho)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
-> The missing existential operator for JavaScript. Returns true unless a variable is null or undefined.
+> The missing existential operator for JavaScript. Returns true unless a variable is `null` or `undefined`.
 
 ## Install
 

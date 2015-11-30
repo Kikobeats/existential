@@ -1,6 +1,6 @@
 {
   "name": "existential",
-  "description": "The missing existential operator for JavaScript.",
+  "description": "The missing existential operator for JavaScript. Returns true unless a variable is null or undefined",
   "version": "1.0.2",
   "author": {
     "name": "Kiko Beats",
