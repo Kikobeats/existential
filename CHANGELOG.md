@@ -1,7 +1,17 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2015-11-30)
+
+
+* little refactor ([8811fce](https://github.com/kikobeats/existential/commit/8811fce))
+* updated bumped settings ([57c4a67](https://github.com/kikobeats/existential/commit/57c4a67))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2015-11-25)
 
 
+* 1.0.2 releases ([64b3aae](https://github.com/kikobeats/existential/commit/64b3aae))
 * added bumped settings ([c151f10](https://github.com/kikobeats/existential/commit/c151f10))
 * reduce conditions ([42b48a0](https://github.com/kikobeats/existential/commit/42b48a0))
 
