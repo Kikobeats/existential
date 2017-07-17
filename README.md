@@ -1,5 +1,7 @@
 # Existential
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/existential.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/existential.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/existential/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/existential)
 [![Dependency status](http://img.shields.io/david/Kikobeats/existential.svg?style=flat-square)](https://david-dm.org/Kikobeats/existential)
